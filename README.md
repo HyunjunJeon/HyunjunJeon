@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+다양하게 많은걸 좋아하는 데이터 탐험가 전현준입니다.
+
+주로 금융쪽 데이터 엔지니어링(Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark)을 담당하고있지만, 
+개발의 욕망을 버리지 못하고 개인 프로젝트로 충족시켜 나가고 있습니다.
+
+Java - Spring 기반 백엔드로 커리어를 시작했으며, 
+Python 의 매력에 빠져서 요즘은 Python - FastAPI 와 다양한 프로젝트를 해보고 있습니다.
+
+
 <!--
 **HyunjunJeon/HyunjunJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
