@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-다양하게 많은걸 좋아하는 데이터 탐험가 전현준입니다.
+다양하게 많은걸 좋아하는 Data Explorer, Product Engineer 전현준입니다.
 
-주로 금융 도메인의 회사들에서 커리어를 쌓았으며
+주로 금융 도메인의 회사들에서 커리어를 쌓았으며,
 데이터 엔지니어링(Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark)을 담당하고 있지만, 
-개발자로써 계속 흐름을 놓치지 않기 위해서 개인 프로젝트를 이어 나가고 있습니다.
 
-Java - Spring 기반 백엔드를 주로 만들며 요즘은 Spring Cloud 와 Spring WebFlux 를 어떻게 적용할 수 있을지 고민하고 있습니다.
-또 최근에는 Python 의 매력에 빠져서 요즘은 Python - FastAPI 를 이용한 비동기 API 를 만들어서 LLM 을 활용한 프로젝트를 해보고 있습니다.
-
-또한 디자인을 잘하지 못해서 프론트엔드는 정말 하기 싫었는데 업무상 Vue.js 도 다뤄보고, 요즘은 디자인이 많이 필요없는 
-Dart 언어 기반의 Flutter 프레임워크에 또 재미를 들려서 몇가지 만들어보고 필요한 것이 무엇일지 생각하고 있습니다.
-
+주로 금융계의 문제를 해결하기 위해 고군분투 하고 있으며, 
+세상이 어떻게 변하더라도 기본은 흔들리지 않는다라는 원칙을 가지고 일하고 있습니다.
 
 <!--
 **HyunjunJeon/HyunjunJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
