@@ -3,9 +3,11 @@
 다양하게 많은걸 좋아하는 Data Explorer, Product Engineer 전현준입니다.
 
 주로 금융 도메인의 회사들에서 커리어를 쌓았으며,
-데이터 엔지니어링(Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark)을 담당하고 있지만, 
+데이터 엔지니어링(Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark)을 담당하고 있습니다.
+그 외에 프로덕트를 만들기위한 Backend (Java-Spring, Python-FastAPI 및 LLM 컨트롤을 위한 Langchain)
+Frontend(Vue.js, Next.js) 등도 활용하고 있습니다.
 
-주로 금융계의 문제를 해결하기 위해 고군분투 하고 있으며, 
+주로 금융계의 정보 편차 문제에 대해 호기심이 많고, 정보를 기반으로 좋은 의사결정을 내리기 위한 수단으로써의 AI 를 고민하고 있습니다.
 세상이 어떻게 변하더라도 기본은 흔들리지 않는다라는 원칙을 가지고 일하고 있습니다.
 
 <!--
