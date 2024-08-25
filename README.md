@@ -11,8 +11,6 @@ Frontend (React, Next.js), and more.
 I'm mainly curious about the problem of information asymmetry in the FINANCIAL issues, and I'm thinking about AI as a means to make good decisions based on information.
 I work with the principle that no matter how the world changes, the basics remain the same.
 
-Translated with www.DeepL.com/Translator (free version)
-
 <!--
 **HyunjunJeon/HyunjunJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
