@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-다양하게 많은걸 좋아하는 Data Explorer, Product Engineer 전현준입니다.
+I'm Hyunjun Jeon, a specially data engineering and product engineer. 
+I loves many things.
 
-주로 금융 도메인의 회사들에서 커리어를 쌓았으며,
-데이터 엔지니어링(Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark)을 담당하고 있습니다.
-그 외에 프로덕트를 만들기위한 Backend (Java-Spring, Python-FastAPI 및 LLM 컨트롤을 위한 Langchain)
-Frontend(Vue.js, Next.js) 등도 활용하고 있습니다.
+I have been working at companies in the financial domain,
+I am in charge of data engineering (Hadoop, Hive, Impala, Kubernetes, Trino, ETL, Python, Spark).
+Other skills include Backend (Java-Spring, Python-FastAPI, and Langchain for LLM controls) for creating products
+Frontend (React, Next.js), and more.
 
-주로 금융계의 정보 편차 문제에 대해 호기심이 많고, 정보를 기반으로 좋은 의사결정을 내리기 위한 수단으로써의 AI 를 고민하고 있습니다.
-세상이 어떻게 변하더라도 기본은 흔들리지 않는다라는 원칙을 가지고 일하고 있습니다.
+I'm mainly curious about the problem of information asymmetry in the FINANCIAL issues, and I'm thinking about AI as a means to make good decisions based on information.
+I work with the principle that no matter how the world changes, the basics remain the same.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <!--
 **HyunjunJeon/HyunjunJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
