@@ -126,7 +126,7 @@ I work with the principle that no matter how the world changes, the basics remai
 [spring boot]: https://img.shields.io/static/v1?style=flat-square&labelColor=ffffff&color=6db33f&logoColor=6db33f&label=&message=Spring-Boot&logo=spring-boot
 
 [mysql]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%234479A1&logoColor=%234479A1&label=&message=MySQL&logo=mysql
-[postgresql]: 
+[postgresql]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%234479A1&logoColor=%234479A1&label=&message=PostgreSQL&logo=postgresql
 [redis]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=dc382d&logoColor=dc382d&label=&message=Redis&logo=redis&#DC382D
 [mongodb]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=47a248&logoColor=47a248&label=&message=MongoDB&logo=mongodb&#47A248
 [neo4j]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=058aff&logoColor=058aff&label=&message=Neo4J&logo=neo4j
