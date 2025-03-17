@@ -126,6 +126,7 @@ I work with the principle that no matter how the world changes, the basics remai
 [spring boot]: https://img.shields.io/static/v1?style=flat-square&labelColor=ffffff&color=6db33f&logoColor=6db33f&label=&message=Spring-Boot&logo=spring-boot
 
 [mysql]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%234479A1&logoColor=%234479A1&label=&message=MySQL&logo=mysql
+[oracle]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Oracle&logo=oracle&#000000
 [postgresql]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%234479A1&logoColor=%234479A1&label=&message=PostgreSQL&logo=postgresql
 [redis]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=dc382d&logoColor=dc382d&label=&message=Redis&logo=redis&#DC382D
 [mongodb]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=47a248&logoColor=47a248&label=&message=MongoDB&logo=mongodb&#47A248
@@ -143,6 +144,7 @@ I work with the principle that no matter how the world changes, the basics remai
 [git]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=f05032&logoColor=f05032&label=&message=Git&logo=git&#F05032
 [github]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=181717&logoColor=181717&label=&message=GitHub&logo=github&#181717
 [amazon web services]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=232f3e&logoColor=232f3e&label=&message=Amazon%20Web%20Services&logo=amazon-aws&#232F3E
+[google cloud platform]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=4285f4&logoColor=4285f4&label=&message=Google%20Cloud%20Platform&logo=google-cloud&#4285F4
 
 [docker]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=2496ed&logoColor=2496ed&label=&message=Docker&logo=docker&#2496ED
 [k8s]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%23326CE5&logoColor=%23326CE5&label=&message=Kubernetes&logo=kubernetes&#000000
